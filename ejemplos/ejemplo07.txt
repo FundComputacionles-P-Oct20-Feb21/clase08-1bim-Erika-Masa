@@ -8,4 +8,4 @@
 10. << n
 11. Fin
  
- // ya que es verdadera si se cumple el siclo y presenta el resultado de n 
+ // ya que es verdadera si se cumple el siclo y presenta el resultado de n=   2 3
