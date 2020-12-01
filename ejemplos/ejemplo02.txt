@@ -4,3 +4,4 @@
 4.   Escribir "La edad ingresada pertenece a mayor de edad"
 5. Fin si
 6. Fin
+la salida es: si el usuario ingresa un numero mayor que 18 se le presentara una mensaje "La edad ingresada pertenece a mayor de edad" de l contrario saldra error 
