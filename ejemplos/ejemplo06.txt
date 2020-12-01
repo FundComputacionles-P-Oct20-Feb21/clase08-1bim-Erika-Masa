@@ -7,3 +7,4 @@
 9.  Fin Mientras"
 10. << n
 11. Fin
+// error por que el mientras es falso 
