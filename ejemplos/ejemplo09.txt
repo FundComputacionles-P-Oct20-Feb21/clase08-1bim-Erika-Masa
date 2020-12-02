@@ -1,9 +1,21 @@
 // Generar la serie
-// 5
-// 10
-// 15
-// 20
-// 25
-// 30
-// Debe usar la operación aritmética MOD y un ciclo
-// repetitivo Para
+ 5
+ 10
+ 15
+ 20
+ 25
+ 30
+ Debe usar la operación aritmética MOD y un ciclo
+ repetitivo Para
+1.inicio
+2.numeroi[0, n] 
+3.cadenaFinal, x(200)[{1-9},{a-z},{A-Z}, {/}]<--" "
+4.para (numero <-- 5, numero <=30, 5)haga
+    si((contador mod 2) ==0 entonces
+5.	cadenaFinal<-- cadenaFinal + numero+ "\n"
+4.delo contrario 
+3.	cadeaFinal<-- cadenaFinal+numero+ "\n"
+7.fin si 
+6.Fin_para
+7.	Escribir cadena final
+8.fin 
